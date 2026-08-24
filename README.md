@@ -76,7 +76,6 @@ The results suggest that butterfly population indicators may provide useful surr
 uk-pollinator-ai-analysis/
 │
 ├── aai.ipynb
-├── aai/
 ├── data/
 ├── actual_vs_predicted_comparison.png
 ├── residual_plot_comparison.png
